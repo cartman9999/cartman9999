@@ -1,8 +1,6 @@
 ### Hi there 👋
 
-<a href="https://app.daily.dev/cartman9999"><img src="https://github.com/cartman9999/cartman9999/blob/master/devcard.svg" width="400" alt="Eric Montes de Oca's Dev Card"/></a>
-
-<a href="https://app.daily.dev/DailyDevTips"><img src="https://github.com/rebelchris/rebelchris/blob/master/devcard.svg" width="400" alt="Chris Bongers's Dev Card"/></a>
+<a href="https://app.daily.dev/cartman9999"><img src="https://github.com/cartman9999/cartman9999/blob/main/devcard.svg" width="400" alt="Eric Montes de Oca's Dev Card"/></a>
 
 
 
